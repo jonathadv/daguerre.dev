@@ -1,1 +1,1 @@
-# daguerre.dev
+<meta name="robots" content="noindex">
